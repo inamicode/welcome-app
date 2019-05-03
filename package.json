@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/inamicode/welcome-app/issues"
   },
-  "homepage": "https://github.com/inamicode/welcome-app#readme"
+  "homepage": "https://github.com/inamicode/welcome-app#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
